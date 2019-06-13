@@ -1,0 +1,16 @@
+PODS:
+  - TestDemo (0.1.0)
+
+DEPENDENCIES:
+  - TestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  TestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestDemo: a54d2c3babbba70ef76292f46e931dfe6f44df75
+
+PODFILE CHECKSUM: 1cb4b55feec585254086d3a07eba2ca939e93e84
+
+COCOAPODS: 1.7.1
